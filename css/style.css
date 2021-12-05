@@ -1,0 +1,19 @@
+/* css file for the odin-recipes website  */
+body {
+    font-family: Verdana, "Courier New", sans-serif;
+}
+
+h1, h2 {
+    background-color: rgb(47, 47, 202);
+    color: white;
+    text-align: center;
+}
+
+li {
+    font-size: 20px;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
